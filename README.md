@@ -2,7 +2,7 @@
 
 Présentation des données d'une API provenant de rapidapi, avec React, Vite, Tailwind et Javascript
 
-Réalisé par Temfack Nangue Michael et Ghomssi Pechunche Grace.
+Réalisé par Temfack Nangue Michael et Ghomssi Pechunche Grace, étudiant en Master 1.
 
 Ce projet nécessite l'installation de NodeJS, Vite, React avec Javascript et Tailwind. Les données sont récupérées à partir de l'API suivant : https://rapidapi.com/apidojo/api/online-movie-database
 
